@@ -1,5 +1,5 @@
 import {createRoot} from "react-dom/client";
-import App from './02-advanced/08-subscription-publish'
+import App from './03-hooks/08-useCallback'
 
 const container=document.getElementById("root")
 const root=createRoot(container)
